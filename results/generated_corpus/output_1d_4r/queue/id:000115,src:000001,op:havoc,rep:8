@@ -1,0 +1,20 @@
+USER admin
+PASS admin 
+GETF
+`ETS
+GETS adQin
+UPDA ,,
+UPDA 1,,77
+EUPDb ,,
+UPDA 1,,ETF
+`ETS
+GETS adQin7
+GETS 
+GEUPDb ,,
+UPDA 1,,77
+GETTS admin
+UPDA ,,,,,,,,,,,,,1
+GETS admin
+UPDA g,5,j
+LOGO
+QUIT

@@ -1,0 +1,8 @@
+USER admin
+PASS admin
+REGU t1,t1
+UPDA 123,333,7&7
+dETS admiUSERETS t1GETF 
+อออออ็อGETF 
+LOGO
+QUIT

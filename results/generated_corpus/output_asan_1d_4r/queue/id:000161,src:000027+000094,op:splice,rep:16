@@ -1,0 +1,46 @@
+USER admin
+PASS admin
+REGU t1,t1
+UPDA 123,333,777
+GETS admin
+GETS t1
+GETF 
+A1000DDF tn
+REU t1,ttest1*UPDA 1
+GþþþþeTS  a…
+þþþþþþþþþ7I7
+U t1,t1
+UPD3,777
+GETS admin
+GETS t1
+GETF 
+A 1,t1
+UPDA 123,333,777
+GETS Mdmin
+GETS t1PASS admin
+REGU €1,n1
+UPDA 123,333,777
+GETS admin
+G,TU t1
+GETF 
+ADDF t1min
+PASS admin
+REGUt1,t1
+UPDA 12L t1dddddddddddddddddddddddddd
+ t
+GEXXXXXXXXPASSXXXXXÿXXXXXXXXXXXXXXXTF 
+AF 
+LOGO
+QU7T
+ETF 
+LOGO
+GETF 
+LO8O
+QUIT
+GETF 
+LOGO
+QUIT
+IT
+GETF 
+LOGO
+QUIT

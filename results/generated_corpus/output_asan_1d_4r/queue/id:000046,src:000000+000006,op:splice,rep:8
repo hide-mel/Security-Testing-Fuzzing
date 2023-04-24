@@ -1,0 +1,19 @@
+USER admin
+PASS admin
+REGU t1,t1
+UPDA 123,333,777
+GETS admin
+GETS t1
+GETF 
+ADDF admin
+PASS aBmin
+EGU t1,t1
+UPDA .23,3d3,777
+GETS admin
+@ETS t1
+GETF 
+©eétFnTTTF @
+LOGOQUIT
+GETF 
+LOGO
+QUIT

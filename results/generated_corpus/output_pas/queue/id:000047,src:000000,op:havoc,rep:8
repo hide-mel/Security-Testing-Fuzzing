@@ -1,0 +1,10 @@
+USER admin
+PASS admin
+BE777
+GETQUIÔSÿÿÿÿin
+PASS t1
+GETF 
+ADDF t1
+GETF 
+LOGO
+QUIT

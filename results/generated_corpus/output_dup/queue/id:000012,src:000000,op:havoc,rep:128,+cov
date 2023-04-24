@@ -1,0 +1,8 @@
+USER admin
+PASS admin
+1GETS t1
+GETF 
+ADDF t1
+GETF 
+LOGO
+QUIT

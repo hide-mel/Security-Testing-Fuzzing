@@ -1,0 +1,6 @@
+USER admin
+PASS admin
+도도도도도도도$ADDF t1
+GETF 
+LOGO
+QUIT

@@ -1,0 +1,31 @@
+afl-fuzz -i $WORKDIR/input -o $WORKDIR/output -M fuzzer01 -N tcp://127.0.0.1/8888 -P FOTBOT ./fotbot-fuzz 127.0.0.1 8888
+
+afl-fuzz -i $WORKDIR/input -o $WORKDIR/output -S fuzzer02 -N tcp://127.0.0.1/8888 -P FOTBOT ./fotbot-fuzz 127.0.0.1 8888
+
+afl-fuzz -i $WORKDIR/input -o $WORKDIR/output -S fuzzer03 -N tcp://127.0.0.1/8888 -P FOTBOT ./fotbot-fuzz 127.0.0.1 8888
+
+afl-fuzz -i $WORKDIR/input -o $WORKDIR/output -S fuzzer04 -N tcp://127.0.0.1/8888 -P FOTBOT ./fotbot-fuzz 127.0.0.1 8888
+
+
+afl-fuzz -i $WORKDIR/input -o $WORKDIR/output -S fuzzer05 -N tcp://127.0.0.1/8888 -P FOTBOT ./fotbot-fuzz 127.0.0.1 8888
+
+afl-fuzz -i $WORKDIR/input -o $WORKDIR/output -S fuzzer06 -N tcp://127.0.0.1/8888 -P FOTBOT ./fotbot-fuzz 127.0.0.1 8888
+
+afl-fuzz -i $WORKDIR/input -o $WORKDIR/output -S fuzzer07 -N tcp://127.0.0.1/8888 -P FOTBOT ./fotbot-fuzz 127.0.0.1 8888
+
+afl-fuzz -i $WORKDIR/input -o $WORKDIR/output -S fuzzer08 -N tcp://127.0.0.1/8888 -P FOTBOT ./fotbot-fuzz 127.0.0.1 8888
+
+afl-fuzz -i $WORKDIR/input -o $WORKDIR/output -S fuzzer09 -N tcp://127.0.0.1/8888 -P FOTBOT ./fotbot-fuzz 127.0.0.1 8888
+
+
+
+
+afl-fuzz -d -i $WORKDIR/input -o $WORKDIR/output -N tcp://127.0.0.1/8888 -P FOTBOT ./fotbot-fuzz 127.0.0.1 8886
+
+
+afl-fuzz -d -x  $WORKDIR/input/withSpace.dict -i $WORKDIR/input/input_2 -o $WORKDIR/results/output_5/ -N tcp://127.0.0.1/8888 -P FOTBOT ./fotbot-fuzz 127.0.0.1 8886
+
+afl-fuzz -d -x  $WORKDIR/input/noSpace.dict -i $WORKDIR/input/input_3 -o $WORKDIR/results/output_6/ -N tcp://127.0.0.1/8765 -P FOTBOT ./fotbot-fuzz 127.0.0.1 8765
+
+
+afl-fuzz -d -x $WORKDIR/input/test1.dict -i $WORKDIR/input/input-1/ -o $WORKDIR/results/output-2/ -N tcp:/127.0.0.1/8888 -P FOTBOT ./fotbot 127.0.0.1 8888

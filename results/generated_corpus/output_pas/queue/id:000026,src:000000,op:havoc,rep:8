@@ -1,0 +1,9 @@
+USER admin
+PASS admin
+REGU t1,)1+
+UPDA 1P3test,333,777
+GETS ad
+GETS adèinGET; t1ADDF t1
+GETF 
+LOGO
+QUIT

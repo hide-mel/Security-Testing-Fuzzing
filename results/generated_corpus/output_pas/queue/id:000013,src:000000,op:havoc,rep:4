@@ -1,0 +1,12 @@
+USER admin
+PASS admin
+REGU t1,t1
+UPDA 123,333,7J7
+GETS a>min
+GETS t1
+GETETS admiè
+GETS t1F 
+ADDF t1
+GETF 
+LOGO
+QUIT

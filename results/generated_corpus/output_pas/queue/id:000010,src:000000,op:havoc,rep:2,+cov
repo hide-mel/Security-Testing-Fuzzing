@@ -1,0 +1,13 @@
+USER admin
+PASS admin
+REGU t1,tEGU t1,t1
+Umin
+GETS t1
+GETF 1
+Umin
+GETS t1
+GETF 
+ADDF t1
+GETF 
+LOGO
+QUIT

@@ -1,0 +1,11 @@
+USER admin
+PASS admin
+R__________test___________23,333,777
+GETS a3,777
+GETS adm²n
+GETS t1
+GET
+ADDF t1
+GETF 
+LOGO
+QUIT

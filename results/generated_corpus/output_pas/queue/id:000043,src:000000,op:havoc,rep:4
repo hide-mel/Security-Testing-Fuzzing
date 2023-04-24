@@ -1,0 +1,10 @@
+USER admin
+PASS admin
+REGU tddddddÅdddddddddM3,777
+GETS admin
+GETS t1
+GETF 
+ADDF t1
+GETF 
+LOGO
+QUIT

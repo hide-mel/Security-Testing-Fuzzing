@@ -1,0 +1,22 @@
+USER admin
+PASS admin
+REGU admdn
+PASS admintest,tesf
+REGU u1,t1
+UPDA 123,333,7L
+GETSB
+GET
+GETS;t1
+GETF 
+7
+GETSL
+GET
+GETS;t1
+GETF 
+ADDF t1
+gETF 
+LOGOQUIT
+ADDF t1
+GETF 
+LOGO
+QUIT

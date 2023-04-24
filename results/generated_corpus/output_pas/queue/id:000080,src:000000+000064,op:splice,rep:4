@@ -1,0 +1,28 @@
+USER admin
+PASS admin
+REGU t1,tn
+PASS admin
+REGU admin
+PASS1000in
+REGU t1,t1miY
+PASS admin
+REU t1
+UPDA UIT
+ADDF t1
+GETU 
+LOG@TS;t1
+GETF %test1
+7
+GETSH
+G°T
+GETS;t1
+GETF %ADDF t1O
+QUIT
+ADDF t1
+GETF 
+LOGO
+QUIT
+ADDF t1
+GETF 
+LOGO
+QUIT

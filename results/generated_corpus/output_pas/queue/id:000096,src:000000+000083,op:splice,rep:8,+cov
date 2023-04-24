@@ -1,0 +1,24 @@
+USER admin
+PASS admin
+REGU t),t1
+UPDA 12min
+REGU t1,t1
+UPDA 12min
+R*GU admin
+PASS1000in
+REGU ,1,t1…iY
+Pÿ€S admin
+REU t1
+UPDA Ein
+REGU admin
+PASS1000in %ADDF t1
+GETF 
+LOGK
+QUIT
+ADDF t1
+GEREGU
+        L@GO
+QUIT
+ADD$ t1
+GETF 
+ADDF t1

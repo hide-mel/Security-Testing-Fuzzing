@@ -1,0 +1,14 @@
+USER admin
+PASS admin 
+, GETF
+REG
+REGU(*S
+REG
+REGU(*S"a7"a2¨GETF
+REG
+REGU(*S
+RU*S a7s 7dUPDA ,,,,,,,,,,,,,1
+GETS admin
+UPDA g,5,j
+LOGO
+QUIT

@@ -1,0 +1,9 @@
+USER admin
+PASS admin
+REGU t1,t1#
+UPDA 1ó3,333,777USERTS admS admin
+GETS t1
+GEADDF t1
+GETF 
+LOGO
+QUIT

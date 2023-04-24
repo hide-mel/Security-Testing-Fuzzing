@@ -1,0 +1,8 @@
+USER admin
+PASS admin
+c;GU t11UUUUUUU
+PASS 123,333,,7'7ÿÿTS+1000,20O0Ddmimøtest,tesf
+GETLOGO
+QUIT
+GETS t1
+GETF 

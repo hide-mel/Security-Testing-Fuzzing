@@ -1,0 +1,10 @@
+USER admin
+PASS admin
+REGU t18t1REGU t18t1
+test 123,333
+test 123,333GETS t1
+GETF 
+ADDF t1
+GETF 
+LOGO
+QUIT

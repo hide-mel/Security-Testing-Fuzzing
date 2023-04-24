@@ -1,0 +1,8 @@
+USER admin
+PASS admin
+REG\ 33,77;ÿÿ
+GETF ÿSÿS ^dmin
+ 1000ÿS/adADDF t1
+GETF 
+LOGO
+QUIT

@@ -1,0 +1,10 @@
+USER admin
+PASS admin
+REGU t1,t1
+UPDA 123,333,,,,
+GETS admin
+GETS t1 GETF 
+ADDF t1
+GETF 
+LOGO
+QUIT

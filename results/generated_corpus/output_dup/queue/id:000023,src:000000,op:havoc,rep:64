@@ -1,0 +1,8 @@
+USER admin
+PASS admin
+,ýG>ASGETS t1
+GETF 
+ADDF t1
+GETF 
+LOGO
+QUIT

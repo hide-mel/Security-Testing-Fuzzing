@@ -1,0 +1,41 @@
+USER admin
+PASS admin 
+GETF
+GETS
+GETS admin
+UPDA ,,
+UPDA 11,,77
+PASS admin
+REGU t1,t1
+UPDA 123,333,777
+GETS admin
+SETS t1
+GETF 
+ASER admin
+PASS admin
+REGU t1,t1
+UPDA 12377777777777777777777777ETS t1
+GETF ,,,
+ADDF t1min
+P33,777
+GETS admin
+ASS admin
+REGU t1,ÿÿÿUPDA 123,333,777
+GETS admin
+GETS t1
+ t1
+GETF 
+AF 
+LOGO
+QUIT
+GETF 
+LrGO
+GETF 
+LOGO
+QUIT
+GETS admin
+UPDA ,,,,,,,,,,,,,1
+GETS admin
+UPDA g,5,j
+LOGO
+QUIT

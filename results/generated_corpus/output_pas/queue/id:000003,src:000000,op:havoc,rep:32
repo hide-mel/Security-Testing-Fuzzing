@@ -1,0 +1,7 @@
+USER admin
+PASS admin
+,êQêQÿÿÿ ,
+UADDF t1
+GETF 
+LOGO
+QUIT

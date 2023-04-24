@@ -1,0 +1,7 @@
+USER admin
+PASS admin 
+TUPDA ,,,,,,,,,,,,,1
+GETS admin
+UPDA g,5,j
+LOGO
+QUIT

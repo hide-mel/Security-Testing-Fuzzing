@@ -1,0 +1,9 @@
+USER admin
+PASS admin
+REGU c1,t1
+UP7DA 123,3
+77777¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥GETP(
+LOGO
+QUIT
+GETS t1
+GETF 

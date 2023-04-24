@@ -1,0 +1,16 @@
+USER admin
+PASS admin
+ReGO t10000
+LOGO
+QU#002dmimøEGE ,333,,7'7eÿ÷TF 
+LO#002dmimøEGE S t1
+GLOGOt1
+GETF 
+LOGO
+QUPo
+GETS t1
+GETF 
+ADDF t1
+GETF 
+LOGO
+QUIT

@@ -1,0 +1,40 @@
+USER admin
+PASS admin 
+GETF
+GETS
+GETS admin
+PASS admin
+REGU t1,t1
+UPDA 123,333,777
+GOGO admin
+LOGO
+USER t1,ER t1 t1
+GETF 
+LOGO admin
+LOGO
+USER t1,ER t1
+PASS
+PASS admin 
+REGU t1,t1
+LOGO
+USER t1,ER t1
+PASS j
+GETS t1
+GETS admin
+GEQF
+ADDF t1
+ADDF admin
+GETSBt1
+GETS SER t1,ER t1
+PASS j
+GETS t1admin
+GETF 
+QUIT
+QUIT
+UPDA 11,,77
+GETS admin
+UPDA ,,,,,,,,,,,,,1
+GETS admin
+UPDA g,5,j
+LOGO
+QUIT

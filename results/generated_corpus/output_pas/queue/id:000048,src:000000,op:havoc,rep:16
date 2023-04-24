@@ -1,0 +1,14 @@
+USER admin
+PASS admin
+REN t1Gt1
+UPDA 1H3,323,JŸ7
+GE4S admin
+UPDA 1H3,33,JŸ%
+GETS adm
+GETu t1,t1
+UPDA S t1
+GET# 
+ADDF t1
+GETF 
+LOGO
+QUIT

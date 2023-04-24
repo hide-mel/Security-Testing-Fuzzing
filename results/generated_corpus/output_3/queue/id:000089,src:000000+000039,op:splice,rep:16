@@ -1,0 +1,28 @@
+USER admin
+PASS admin
+REGU t1,t1
+UPDA 123,333,777
+GETS admin
+GETS t1
+GETF 
+ADDF t1
+GETF 
+LSER admin
+ASS admin
+REHU t1,t1
+UPDA 123,333,777
+n
+ASS admin
+REHU t1,t1
+UPDGEÿ admin
+GETS ÿÿÿÿGETF 
+ADDF t
+GETF GO
+GETh
+ADDF t1
+ADDF adminIT
+GETh
+ADDF t1
+ADDF adminIT
+QUIT
+QUIT

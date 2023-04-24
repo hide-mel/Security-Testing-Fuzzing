@@ -1,0 +1,25 @@
+USER admin
+PASS admin 
+REGU t1,t1
+LOGO
+USER t1,t1
+USER t1
+PASS j
+GETS t1
+GETS admin
+GETF
+ADDF t1
+ADDF admin
+GETS t1ETF
+PASS 123
+PASS
+LOGO
+USER admin
+ADDF
+PASS aETF
+UzzzzzzzPDA 
+LOGO
+LOGO
+QUIT
+GETS admin
+GETF 

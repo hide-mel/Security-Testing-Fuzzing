@@ -1,0 +1,11 @@
+aflnet-replay replayable-queue/id\:000121\,src\:000113\,op\:ext_AO\,pos\:1 FOTBOT 8888 > /dev/null 2>&1 & ../../../fotbot/fotbot-gcov 127.0.0.1 8888
+
+
+
+
+for file in $WORKDIR/results/output_1/replayable-queue/*; do aflnet-reply $file FOTBOT 8888 > /dev/null 2>&1 & $WORKDIR/fotbot/fotbot-gcov 127.0.0.1 8888; done
+
+
+
+
+for file in $WORKDIR/results/output-1/replayable-queue/*; do echo -e "aflnet-replay $file FOTBOT 8888 > /dev/null 2>&1 & $WORKDIR/fotbot/fotbot-gcov 127.0.0.1 8888"; done

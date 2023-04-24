@@ -1,0 +1,13 @@
+USER admin
+PASS admin 
+GETF
+GETS
+GETS admin
+UPDA ÿmmin
+UPD ÿÿÿÿÿÿÿUPDA 11,,77
+GETS admin
+UPDA ,,,,,,,,,,,,,1
+GETS admin
+UPDA g,5,j
+LOGO
+QUIT

@@ -1,0 +1,11 @@
+USER admin
+PASS admin
+REGU ‡1,t1
+UPDA 12333GETF7
+GETS mdmin
+GETS t1
+GETF 
+ADDF t1
+GETF 
+LOGO
+QUIT

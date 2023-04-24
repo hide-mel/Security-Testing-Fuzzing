@@ -1,0 +1,13 @@
+USER admin
+PASS admin
+REGO t1,t1
+UPDGETSA
+GETS wdmin
+GETS t1 123,333,777
+GETS wdmin
+GETS t1
+GETF 
+ADDF t1
+GETF 
+LOGO
+QUIT

@@ -1,0 +1,10 @@
+USER admin
+PASS admin
+REGU t1,t1
+lPDA 123,333,,7'7ÿÿTS 1000,2000Ddmimø
+GETS t1
+GETF 
+ADDF t1
+GETF 
+LOGO
+QUIT

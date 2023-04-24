@@ -1,0 +1,9 @@
+USER admin
+PASS admin
+RE@3,t13377afmin1ª3,32P,33dmin1253utest,33½dmin12U3dmin1253uteót,333dmin12[rUUUUUUUúnnnnnnnnnnrUUUUUUUUUmut33
+GETS t1
+GETF 
+ADDF t1
+GETF 
+LOGO
+QUIT

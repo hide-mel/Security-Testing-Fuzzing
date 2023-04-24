@@ -1,0 +1,10 @@
+USER admin
+PASS admin
+REGi t1,t1
+UPDA 123,333,777test,testin
+GETR t1
+33,777test,testinGETF 
+ADDF t1
+GETF 
+LOGO
+QUIT

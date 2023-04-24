@@ -1,0 +1,10 @@
+USER admin
+PASS admin
+REGU Œ1<testUPD" 123,iiiiii7
+GETSIádmin
+GETS t1
+GETF 
+ADDF t1
+GETF 
+LOGO
+QUIT

@@ -1,0 +1,10 @@
+USER admin
+PASS admin
+REGUè),tUSERPDA 123,333,777
+GETS admin,
+GETS t1
+GETF 
+ADDF t1
+GETF 
+LOGO
+QUIT

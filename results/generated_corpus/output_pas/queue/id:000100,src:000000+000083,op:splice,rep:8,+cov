@@ -1,0 +1,19 @@
+USER admin
+PASS admin
+REG%%%Z%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+PASS admin
+REGU admin
+PASS1000in
+REGU ,1,t1…iY
+PASS admin
+REU t1
+UPDA 123,333,7711111111111111111111111U admin
+PASS1000in %ADDF t1
+GETF *LOGO
+QUIT
+ADDF t1
+GEREGU
+        LOGO
+QUIT
+ADDF t1
+,ETF 

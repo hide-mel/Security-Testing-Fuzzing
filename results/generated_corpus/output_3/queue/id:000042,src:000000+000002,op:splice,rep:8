@@ -1,0 +1,28 @@
+USER admin
+PASS admin
+REGU t1,t1
+UPDA 123,333,777
+GETS admin
+GETS t1
+GETF 
+ADDF t1
+GETF 
+LOGO U t1,t1
+LOGOadman
+PASS admin 
+REGU t1,t1
+LOGO
+USER t1,t1
+USER t1
+PASS j
+GETS t1
+KETS admin
+GETF
+ADDF 
+REGU t1,t1
+LOGO
+USE1
+GETS admin
+GETF 
+QUIT
+QUIT

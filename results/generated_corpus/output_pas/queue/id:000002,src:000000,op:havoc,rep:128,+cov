@@ -1,0 +1,6 @@
+USER admin
+PASS admin
+B	000ADDF t1
+GETF 
+LOGO
+QUIT

@@ -1,0 +1,11 @@
+USER admin
+PASS admin
+REGU testt1,f1
+UPDA 123,333,777
+GETS admin
+GETS t1
+GETF 1111
+ADDF t1
+GETF 
+LOGO
+QUIT

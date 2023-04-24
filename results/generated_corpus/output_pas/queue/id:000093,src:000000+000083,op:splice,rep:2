@@ -1,0 +1,29 @@
+USER admin
+PASS admin
+REGU t1,t1
+UPDA 12min
+REGU t1,tn
+PASS admin
+REGU admin
+PASS1000in
+REGU ,1,t1…iY
+PASS admin
+REU t1
+UPDA 123,333,77
+GETSB
+GET
+GUEin
+REGU admin
+PASS1000in %ADDF t1
+GETF 
+LOGO
+QUIT
+ADDF t1
+GEREGU
+        LOGO
+QUIT)ADDF t1
+GETF 
+ADDF t1
+GETF 
+LOGO
+QUIT

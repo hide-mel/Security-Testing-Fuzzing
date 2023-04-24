@@ -1,0 +1,9 @@
+USER admin
+PASS admin
+REGU alex,alex
+ADDF alex
+GETS alex
+UPDA 100
+GETF
+LOGO
+QUIT

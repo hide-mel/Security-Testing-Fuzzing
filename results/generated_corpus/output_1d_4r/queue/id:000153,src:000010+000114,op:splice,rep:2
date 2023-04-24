@@ -1,0 +1,15 @@
+USEQUITmin
+PASS admin 
+GETF
+ ETS
+GETS admin
+UPDA ,,
+UPDA 11ÿÿPASSÿ
+GETS admin
+UPDA ,,,,,,,,,,H,,1
+GETS admin
+UPDA g,5,j
+LOGO
+QUIT
+REGU t1,t1
+UPDA 123,333,777

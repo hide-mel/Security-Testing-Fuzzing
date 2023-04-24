@@ -1,0 +1,10 @@
+USER admin
+PASS admin
+RU U t1,t1
+ 123,333,777
+GETSÿÿÿinçGETS t1
+GETF 
+ADDF t1
+GETF 
+LOGO
+QUIT

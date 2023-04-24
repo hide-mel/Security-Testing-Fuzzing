@@ -1,0 +1,20 @@
+USER admin
+PASS admin
+REGU t1,t1
+UPDA 123,333,777
+GETS admin
+GETS t1
+GETF 
+ADDF t1
+GETF 
+L1
+GETS adm^ãOER^t1ÁOAqO j
+GETS 
+USER^t1ÁOAqO j
+GETS t1
+GETS adm^ã
+TF
+ADUSER^V1DDFmin
+G[TF 
+QUIT
+QUIT

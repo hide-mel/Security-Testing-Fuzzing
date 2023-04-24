@@ -1,0 +1,11 @@
+USER admin
+PASS admin
+REGU t1, 1
+UPDA 1UPDA33,777
+GETa admin
+`ETS tUDA 12,331
+GETF 
+ADDF t1
+GETF 
+LOGO
+QUIT

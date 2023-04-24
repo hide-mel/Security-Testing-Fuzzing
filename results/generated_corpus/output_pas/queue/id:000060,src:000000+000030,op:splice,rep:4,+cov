@@ -1,0 +1,19 @@
+USER admin
+PASS admin
+REGU admin
+PASS admin
+REGU t1,t1
+UPDA 123,333,77
+GETSB
+GE %
+7dmin
+REGU t1,t1Sÿÿÿ
+GETF 
+ADDF t1
+GETF 
+L 
+ADDF t1
+GETFOGO
+QUIT
+ADDF t1
+GETF 

@@ -1,0 +1,31 @@
+USER admin
+PASS admin
+REGU t1,t1
+UPDA 123,333,777
+GETS admin
+GETS t1
+GETF 
+ASEÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÿÿÿÆÆÆÆÆÆÆR admin
+PASS admin
+REGU t1,t1
+ÕPDA 1test13,777
+GETS admin
+GETS t1
+ÿETF 
+ADDF t1[in
+PAS€ÿadmenî
+RU t1,t1
+UPDA 1test13,777
+GET: DA 123,333,777
+GETS admin
+GETS t1ø	 t1
+GETF 
+
+AF 
+L t1
+GEIT
+GETF 
+LOGO
+GETF 
+LOGO
+QUIT

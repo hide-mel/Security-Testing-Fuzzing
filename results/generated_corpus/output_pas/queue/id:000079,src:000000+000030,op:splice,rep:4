@@ -1,0 +1,20 @@
+USER admin
+PASS admin
+REGU admin
+PASS admƒn
+REGU t1,t1
+UPDA 123,333,77
+GETF 
+ADDF t1
+GETF ù	TF %
+7
+GETSH
+GET$
+GETS;t1
+GETF 
+ADDF t1
+GETF 
+LOGO
+QUIT
+ADDF t1
+GETF 

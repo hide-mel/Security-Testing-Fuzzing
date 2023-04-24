@@ -1,0 +1,45 @@
+USER admin
+PASS admin
+REGU alex,alex
+REGU mary,mary
+REGU mary,mary
+GETS mary
+GETS matt
+UPDA 100
+GETF
+LOGO
+USER alex
+PASS alex
+REGU matt,matt
+UPDA 400
+ADDF matt
+ADDF mary
+LOGO
+USER mary
+PASS mary
+ADDF alex
+GETS mary
+GETS admin
+GETF
+QUIT
+
+
+
+
+
+USER admin
+PASS admin
+REGU alex,alex
+REGU mary,mary
+ADDF alex
+GETS alex
+UPDA 100
+GETF
+LOGO
+USER alex
+PASS alex
+REGU maru,maru
+ADDF
+GETS alex
+QUIT
+
